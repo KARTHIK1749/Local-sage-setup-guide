@@ -22,10 +22,16 @@ No cloud. No API keys. No usage limits.
 
 Download from **GitHub Releases**:
 
-- Releases page: https://github.com/<github>/<repo>/releases
+- Releases page: https://github.com/KARTHIK1749/Local-sage-setup-guide/releases
+
+Direct download (latest):
+
+```text
+https://github.com/KARTHIK1749/Local-sage-setup-guide/releases/latest/download/Local-Sage-Setup-1.0.0.exe
+```
 
 What you download:
-- `Local-sage-Setup-1.0.0.exe` (the installer)
+- `Local-Sage-Setup-1.0.0.exe` (the installer)
 
 Optional (portable build):
 - `Local-Sage-win-unpacked.zip` (a zipped portable folder)

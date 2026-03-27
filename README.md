@@ -86,12 +86,12 @@ Local-Sage solves this by being:
 
 Get the latest installer from Releases:
 
-👉 https://github.com/<github>/<repo>/releases
+👉  https://github.com/KARTHIK1749/Local-sage-setup-guide/releases
 
 ### 🔗 Direct Download (Recommended)
 
 ```text
-https://github.com/<YOUR_GITHUB>/<YOUR_SETUP_REPO>/releases/latest/download/Local-Sage%20Setup%20X.Y.Z.exe
+https://github.com/KARTHIK1749/Local-sage-setup-guide/releases/latest/download/Local-Sage-Setup-1.0.0.exe
 ```
 
 ---
